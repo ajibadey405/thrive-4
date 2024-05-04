@@ -1,0 +1,153 @@
+@media screen and (max-width: 1087px) {
+    .center-port{
+        width: 10.25rem;
+        height: 3.6875rem;
+        padding: 1% 1%;
+        border: 5px solid #000;
+        font-size: 0.875rem;
+        letter-spacing: 0.26631rem;
+        top: 10%;
+        left: 40%;    
+    }
+
+}
+@media screen and (max-width: 911px) {
+    .container-5{ 
+        column-gap: 15rem;    
+    }
+
+}
+@media screen and (max-width: 740px) {
+    /* section2 start */
+    .container-1{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        background: url(../images/rectangle2.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        padding-left: unset;
+        padding-top: unset;
+        padding-bottom: unset;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: nowrap;
+    }
+    .section2 h3{
+        display: flex;
+        width: 17.8125rem;
+        height: 3.9375rem;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        font-size: 1.5625rem;
+        letter-spacing: 0.28963rem;
+        margin-top: 2.56rem;
+    }
+    .section2 p{
+        width: 17.75rem;
+        height: 17.1875rem;
+        color: #FFF;
+        text-align: justify;
+        justify-content: center;
+        align-items: center;
+        font-family: "Open Sans";
+        font-size: 0.9375rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 138.682%; /* 1.30013rem */
+        margin-left: 3.06rem;
+        margin-right: 3.06rem;
+        padding-right: unset;
+        /* padding-top: 7.62rem; */
+
+    }
+    a.anchor-desktop{
+        display: none;
+    }
+    a.anchor-mobile{
+        display: flex;
+        color: #FFF;
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 0.9375rem;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+    /* section2 end */
+    .p-text-mobile{
+        display: flex;
+    }
+    .p-text-desktop{
+        display: none; 
+    }
+    .section3{
+        padding-top: 4.62rem;
+       }
+    .section3 .about-me, .section5 .about-me{
+        width: 13.125rem;
+        height: 4.25rem;
+        font-size: 0.875rem;
+        letter-spacing: 0.38094rem;
+        margin-bottom: 2.28rem;
+       }
+    .section3 p{
+        width: 16.5625rem;
+        height: 14.0625rem;
+        color: #000;
+        text-align: justify;
+        font-size: 0.75rem;
+        font-weight: 300;
+        line-height: normal;
+        padding-top: unset;
+       }
+    .section3 .explore{
+        margin-top: 1.88rem;
+        width: 9rem;
+        height: 2.5rem;
+        font-size: 0.8125rem;
+        letter-spacing: 0.08125rem;
+        border-right: 0.125rem solid #000000;
+        border-left: 0.125rem solid #000000;
+    }
+    .container-2 img{
+        margin-top: 4.12rem;
+    }
+    .center-port{
+        width: 10.25rem;
+        height: 3.6875rem;
+        padding: 1% 1%;
+        border: 5px solid #000;
+        font-size: 0.875rem;
+        letter-spacing: 0.26631rem;
+        top: 10%;
+        left: 40%;    
+    }
+
+}
+@media screen and (max-width: 607px) {
+    .center-port{
+        width: 8.25rem;
+        height: 2.5875rem;
+        padding: 1% 1%;
+        border: 5px solid #000;
+        font-size: 0.875rem;
+        letter-spacing: 0.26631rem;
+        top: 10%;
+        left: 40%;    
+    }
+
+}
+@media screen and (max-width: 521px) {
+    .section6 h3{
+    margin-left: 3.12rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+}
